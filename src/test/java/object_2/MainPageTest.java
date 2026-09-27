@@ -1,6 +1,6 @@
 package object_2; // Моя папка для тестов
 
-import object_1.MainPage; // Подтягиваем главную страницу из первой папки
+import org.example.object_1.MainPage; // Подтягиваем главную страницу из первой папки
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
